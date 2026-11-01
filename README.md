@@ -1,2 +1,2 @@
 # CV-Smart-Analyzer
-Smart CV analyzer that parses resumes and scores them against job descriptions.
+Smart CV analyser that parses resumes and scores them against job descriptions.
