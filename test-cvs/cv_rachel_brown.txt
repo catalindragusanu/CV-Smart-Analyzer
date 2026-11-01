@@ -1,0 +1,47 @@
+RACHEL BROWN
+Email: rachel.brown@email.com
+Phone: +1-555-0116
+
+PROFESSIONAL SUMMARY
+Business Intelligence Analyst with 4 years of experience transforming data into actionable insights. Expert in SQL, Tableau, and Power BI.
+
+CORE COMPETENCIES
+- BI Tools: Tableau, Power BI, Looker, QlikView
+- Languages: SQL, Python, R, DAX
+- Databases: SQL Server, Oracle, PostgreSQL, Snowflake
+- ETL: SSIS, Informatica, Talend
+- Analysis: Statistical analysis, Predictive modeling, Forecasting
+- Excel: Advanced formulas, Pivot tables, VBA
+- Visualization: Dashboard design, Data storytelling
+
+EMPLOYMENT HISTORY
+
+Business Intelligence Analyst | Data Insights Corp | 2021 - Present
+- Created interactive dashboards and reports using Tableau
+- Analyzed business metrics and KPIs for executive leadership
+- Developed SQL queries to extract and transform data
+- Automated reporting processes saving 20 hours per week
+- Conducted ad-hoc analysis to support business decisions
+- Collaborated with stakeholders to understand requirements
+
+Junior BI Analyst | Analytics Solutions | 2020 - 2021
+- Built Power BI reports and dashboards
+- Performed data quality checks and validation
+- Documented BI processes and data definitions
+- Supported data warehouse maintenance
+
+EDUCATION
+Master of Science in Business Analytics
+University of Texas at Dallas | 2018 - 2020
+
+Bachelor of Business Administration - Finance
+University of Houston | 2014 - 2018
+
+CERTIFICATIONS
+- Tableau Desktop Specialist
+- Microsoft Certified: Data Analyst Associate
+- Google Data Analytics Professional Certificate
+
+ACHIEVEMENTS
+- Increased sales reporting efficiency by 60%
+- Developed forecasting model with 92% accuracy

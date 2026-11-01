@@ -1,0 +1,43 @@
+JOB TITLE: Cloud Solutions Architect
+COMPANY: Enterprise Cloud Services
+LOCATION: New York, NY
+
+ABOUT THE ROLE:
+We're looking for an experienced Cloud Architect to design and implement enterprise-scale cloud solutions. This role requires deep expertise in AWS, Azure, or GCP.
+
+REQUIRED SKILLS:
+AWS, Azure, GCP, Cloud Architecture, Microservices, Serverless, Terraform, CloudFormation, Kubernetes, Networking, Security, High Availability, Disaster Recovery, Cost Optimization
+
+RESPONSIBILITIES:
+- Design cloud architectures for enterprise applications
+- Lead cloud migration projects from on-premise to cloud
+- Implement infrastructure as code using Terraform
+- Architect multi-region, highly available solutions
+- Ensure security and compliance best practices
+- Optimize cloud costs and resource utilization
+- Conduct architecture reviews and provide recommendations
+- Create technical documentation and diagrams
+- Mentor cloud engineering team
+- Stay current with cloud platform updates and services
+
+QUALIFICATIONS:
+- Bachelor's or Master's degree in Computer Science or related field
+- 7+ years of experience in cloud computing and architecture
+- Expert knowledge of at least one major cloud platform (AWS, Azure, or GCP)
+- Strong experience with infrastructure as code (Terraform, CloudFormation)
+- Deep understanding of cloud networking and security
+- Experience designing microservices architectures
+- Knowledge of containerization and orchestration (Docker, Kubernetes)
+- Excellent communication and presentation skills
+- Experience with multiple cloud platforms is a plus
+
+REQUIRED CERTIFICATIONS:
+- AWS Solutions Architect Professional, or
+- Azure Solutions Architect Expert, or
+- Google Cloud Professional Cloud Architect
+
+PREFERRED:
+- Multiple cloud certifications
+- Experience with serverless architectures
+- Knowledge of FinOps and cloud cost management
+- Experience in regulated industries (finance, healthcare)

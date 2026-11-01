@@ -1,0 +1,43 @@
+DAVID MARTINEZ
+Email: david.martinez@email.com
+Phone: +1-555-0105
+Location: Austin, TX
+
+CAREER OBJECTIVE
+Backend Developer with 7 years of experience building scalable server-side applications. Expert in Python, Django, and microservices architecture.
+
+SKILLS & EXPERTISE
+- Languages: Python, Java, Go, SQL
+- Frameworks: Django, Flask, FastAPI, Spring Boot
+- Databases: PostgreSQL, MySQL, Redis, Elasticsearch
+- Message Queues: RabbitMQ, Apache Kafka
+- APIs: REST, GraphQL, gRPC
+- Testing: Pytest, Unittest, JUnit
+- Tools: Docker, Git, Postman, Swagger
+
+PROFESSIONAL EXPERIENCE
+
+Senior Backend Developer | Enterprise Systems | 2019 - Present
+- Designed and implemented microservices using Python and FastAPI
+- Built high-performance APIs handling 10K+ requests per second
+- Implemented caching strategies reducing database load by 60%
+- Architected event-driven systems using Apache Kafka
+- Led code reviews and established coding standards
+
+Backend Developer | Software Solutions Ltd. | 2017 - 2019
+- Developed RESTful APIs using Django REST Framework
+- Optimized database queries and indexing
+- Implemented authentication and authorization systems
+- Integrated third-party APIs and payment gateways
+
+EDUCATION
+Master of Science in Software Engineering
+University of Texas at Austin | 2015 - 2017
+
+Bachelor of Technology in Computer Science
+Texas A&M University | 2011 - 2015
+
+ACHIEVEMENTS
+- Reduced API response time by 70% through optimization
+- Mentored 8 junior developers
+- Received "Employee of the Year" award in 2021

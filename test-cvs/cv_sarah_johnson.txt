@@ -1,0 +1,39 @@
+SARAH JOHNSON
+Email: sarah.johnson@email.com
+Phone: +1-555-0102
+LinkedIn: linkedin.com/in/sarahjohnson
+
+OBJECTIVE
+Data Scientist with 5 years of experience in machine learning, statistical analysis, and data visualization. Passionate about turning data into actionable insights.
+
+TECHNICAL SKILLS
+- Programming: Python, R, SQL, Scala
+- ML/AI: TensorFlow, PyTorch, Scikit-learn, Keras
+- Data Tools: Pandas, NumPy, Apache Spark, Hadoop
+- Visualization: Tableau, Power BI, Matplotlib, Seaborn
+- Databases: PostgreSQL, MongoDB, Cassandra
+- Cloud: AWS (SageMaker, EMR), GCP
+
+PROFESSIONAL EXPERIENCE
+
+Data Scientist | Analytics Pro | 2021 - Present
+- Developed predictive models improving customer retention by 25%
+- Built recommendation system using collaborative filtering
+- Conducted A/B testing and statistical analysis for product features
+- Created interactive dashboards for executive stakeholders
+
+Junior Data Scientist | Data Insights Co. | 2019 - 2021
+- Performed exploratory data analysis on large datasets
+- Implemented machine learning models for classification tasks
+- Automated data cleaning and preprocessing pipelines
+- Collaborated with engineering teams to deploy ML models
+
+EDUCATION
+Master of Science in Data Science
+Stanford University | 2017 - 2019
+
+Bachelor of Science in Mathematics
+MIT | 2013 - 2017
+
+PUBLICATIONS
+- "Deep Learning Approaches to Customer Churn Prediction" - Data Science Journal, 2022

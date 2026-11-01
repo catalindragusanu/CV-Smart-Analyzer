@@ -1,0 +1,45 @@
+DANIEL CLARK
+Email: daniel.clark@email.com
+Phone: +1-555-0115
+GitHub: github.com/danielclark
+
+OBJECTIVE
+Game Developer with 5 years of experience creating engaging gaming experiences. Proficient in Unity, Unreal Engine, and C++.
+
+SKILLS & TECHNOLOGIES
+- Game Engines: Unity, Unreal Engine 4/5, Godot
+- Languages: C#, C++, Python, JavaScript
+- Graphics: OpenGL, DirectX, Shader programming
+- Tools: Blender, Maya, Photoshop
+- Platforms: PC, Console, Mobile, VR
+- Version Control: Git, Perforce
+- Design Patterns: ECS, Observer, State Machine
+
+WORK EXPERIENCE
+
+Game Developer | Game Studios Pro | 2021 - Present
+- Developed gameplay mechanics for AAA titles
+- Implemented AI systems using behavior trees
+- Optimized game performance for console platforms
+- Created multiplayer functionality using Photon
+- Collaborated with artists and designers
+- Developed VR experiences for Oculus Quest
+
+Junior Game Developer | Indie Games Inc. | 2019 - 2021
+- Built mobile games using Unity and C#
+- Implemented physics-based gameplay
+- Integrated monetization and analytics SDKs
+- Fixed bugs and improved game performance
+
+EDUCATION
+Bachelor of Science in Game Design and Development
+Rochester Institute of Technology | 2015 - 2019
+
+PUBLISHED GAMES
+- "Space Warriors" - PC/Console - 100K+ copies sold
+- "Puzzle Quest" - Mobile - 500K+ downloads
+- "VR Adventure" - VR platforms
+
+ACHIEVEMENTS
+- "Best Indie Game" award at GameCon 2022
+- Featured on Steam's front page

@@ -1,0 +1,42 @@
+JOB TITLE: Product Manager - SaaS Platform
+COMPANY: CloudSoft Inc.
+LOCATION: San Jose, CA
+
+ABOUT THE POSITION:
+We're seeking a Product Manager to lead our SaaS platform development. You'll work with cross-functional teams to deliver innovative features that delight customers.
+
+REQUIRED SKILLS:
+Product Management, Roadmap Planning, Agile, Scrum, User Stories, JIRA, Product Strategy, Market Research, Analytics, SQL, A/B Testing, Stakeholder Management
+
+RESPONSIBILITIES:
+- Define product vision, strategy, and roadmap
+- Gather and prioritize product requirements
+- Write detailed user stories and acceptance criteria
+- Work closely with engineering, design, and marketing teams
+- Conduct user research and gather customer feedback
+- Analyze product metrics and user behavior
+- Make data-driven decisions to improve product
+- Manage product backlog and sprint planning
+- Present product updates to stakeholders and executives
+- Monitor competitor products and market trends
+- Define and track key performance indicators (KPIs)
+- Manage product launches and go-to-market strategy
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science, Business, or related field
+- 5+ years of product management experience
+- Strong experience with B2B SaaS products
+- Proven track record of successful product launches
+- Excellent analytical and problem-solving skills
+- Strong understanding of Agile/Scrum methodologies
+- Experience with analytics tools (Google Analytics, Mixpanel, etc.)
+- Ability to write SQL queries for data analysis
+- Outstanding communication and presentation skills
+- Technical background or ability to work with engineering teams
+
+PREFERRED:
+- MBA or Master's degree
+- Product management certification (CSPO, Pragmatic Institute)
+- Experience with API products
+- Knowledge of UX design principles
+- Previous software engineering experience

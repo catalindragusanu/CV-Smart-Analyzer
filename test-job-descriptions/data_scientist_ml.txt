@@ -1,0 +1,35 @@
+JOB TITLE: Data Scientist - Machine Learning
+COMPANY: AI Innovations Inc.
+LOCATION: Boston, MA
+
+ABOUT THE ROLE:
+Join our data science team to build cutting-edge machine learning models that drive business decisions. We're looking for someone passionate about data and AI.
+
+REQUIRED SKILLS:
+Python, Machine Learning, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, SQL, Statistics, Data Visualization, Jupyter, Git, Deep Learning, Neural Networks
+
+RESPONSIBILITIES:
+- Develop and deploy machine learning models for prediction and classification
+- Perform exploratory data analysis on large datasets
+- Build data pipelines for model training and inference
+- Collaborate with engineering teams to productionize models
+- Conduct A/B testing and statistical analysis
+- Create visualizations and dashboards for stakeholders
+- Stay current with latest ML research and techniques
+- Document models and methodologies
+
+QUALIFICATIONS:
+- Master's or PhD in Data Science, Computer Science, Statistics, or related field
+- 3+ years of experience in data science or machine learning
+- Strong programming skills in Python
+- Experience with deep learning frameworks (TensorFlow, PyTorch)
+- Proficiency in SQL and data manipulation
+- Knowledge of statistical analysis and hypothesis testing
+- Strong communication skills to explain complex concepts
+- Experience with cloud platforms (AWS, GCP, or Azure)
+
+NICE TO HAVE:
+- Experience with NLP or Computer Vision
+- Knowledge of MLOps and model deployment
+- Published research papers or patents
+- Experience with Apache Spark or big data technologies

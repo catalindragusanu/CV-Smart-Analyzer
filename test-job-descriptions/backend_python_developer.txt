@@ -1,0 +1,39 @@
+JOB TITLE: Backend Python Developer
+COMPANY: API Solutions Inc.
+LOCATION: Austin, TX
+
+JOB SUMMARY:
+Join our backend team to build high-performance APIs and scalable server-side applications. We use Python, Django, and modern cloud technologies.
+
+REQUIRED SKILLS:
+Python, Django, FastAPI, Flask, PostgreSQL, REST APIs, GraphQL, Redis, Docker, Git, SQL, API Design, Microservices, AWS, Unit Testing
+
+RESPONSIBILITIES:
+- Design and develop RESTful and GraphQL APIs
+- Build scalable microservices architecture
+- Optimize database queries and performance
+- Implement caching strategies using Redis
+- Write comprehensive unit and integration tests
+- Review code and mentor junior developers
+- Integrate third-party APIs and services
+- Deploy and monitor applications in production
+- Participate in technical design discussions
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science or related field
+- 5+ years of backend development experience
+- Strong expertise in Python programming
+- Extensive experience with Django or FastAPI
+- Proficiency in SQL and database design (PostgreSQL preferred)
+- Experience designing and building RESTful APIs
+- Knowledge of asynchronous programming
+- Understanding of microservices architecture
+- Experience with version control (Git)
+- Strong problem-solving skills
+
+PREFERRED SKILLS:
+- Experience with message queues (RabbitMQ, Kafka)
+- Knowledge of GraphQL
+- Familiarity with NoSQL databases (MongoDB, Elasticsearch)
+- Experience with containerization (Docker, Kubernetes)
+- AWS or cloud platform experience

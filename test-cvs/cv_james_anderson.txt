@@ -1,0 +1,43 @@
+JAMES ANDERSON
+Email: j.anderson@email.com
+Phone: +1-555-0111
+Location: Seattle, WA
+
+SUMMARY
+Machine Learning Engineer with 5 years of experience developing and deploying ML models. Expert in deep learning, computer vision, and NLP.
+
+TECHNICAL SKILLS
+- ML Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
+- Languages: Python, R, Java, C++
+- Deep Learning: CNN, RNN, LSTM, Transformers, GANs
+- Computer Vision: OpenCV, YOLO, ResNet
+- NLP: BERT, GPT, spaCy, NLTK
+- MLOps: MLflow, Kubeflow, Docker, Kubernetes
+- Cloud: AWS SageMaker, Google Cloud AI Platform
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | AI Innovations | 2021 - Present
+- Developed computer vision models for object detection (mAP: 0.92)
+- Built NLP models for sentiment analysis and text classification
+- Deployed ML models to production using Docker and Kubernetes
+- Implemented MLOps pipelines for model versioning and monitoring
+- Collaborated with data scientists and software engineers
+
+ML Engineer | Tech Research Lab | 2019 - 2021
+- Created recommendation systems using collaborative filtering
+- Developed chatbot using transformer-based models
+- Performed hyperparameter tuning and model optimization
+- Presented research findings to stakeholders
+
+EDUCATION
+Master of Science in Artificial Intelligence
+Stanford University | 2017 - 2019
+Thesis: "Deep Learning for Medical Image Analysis"
+
+Bachelor of Science in Computer Science
+UC Berkeley | 2013 - 2017
+
+PUBLICATIONS
+- "Attention Mechanisms in Medical Imaging" - CVPR 2021
+- "Transfer Learning for Small Datasets" - NeurIPS 2020

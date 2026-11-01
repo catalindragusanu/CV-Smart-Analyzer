@@ -1,0 +1,40 @@
+JOB TITLE: iOS Developer
+COMPANY: Mobile Apps Co.
+LOCATION: San Francisco, CA
+
+DESCRIPTION:
+We're seeking an experienced iOS Developer to create amazing mobile experiences for millions of users. You'll work on our flagship iOS application.
+
+REQUIRED SKILLS:
+Swift, SwiftUI, iOS, Xcode, UIKit, Core Data, RESTful APIs, Git, MVVM, MVC, Firebase, Push Notifications, In-App Purchases, iOS SDK
+
+RESPONSIBILITIES:
+- Develop and maintain iOS applications using Swift and SwiftUI
+- Implement new features and improve existing functionality
+- Integrate with backend APIs and third-party services
+- Optimize app performance and memory usage
+- Debug and fix issues reported by users
+- Write unit and UI tests for quality assurance
+- Collaborate with designers and product managers
+- Participate in code reviews
+- Stay updated with latest iOS trends and technologies
+- Submit apps to App Store and manage releases
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science or related field
+- 4+ years of iOS development experience
+- Strong proficiency in Swift programming language
+- Experience with SwiftUI and UIKit
+- Knowledge of iOS design patterns (MVVM, MVC, etc.)
+- Understanding of iOS SDK and frameworks
+- Experience with RESTful APIs and JSON
+- Familiarity with version control (Git)
+- Strong debugging and problem-solving skills
+- Published apps on the App Store
+
+NICE TO HAVE:
+- Experience with Objective-C
+- Knowledge of Combine framework
+- Experience with CI/CD for mobile apps
+- Understanding of mobile security best practices
+- Experience with React Native or Flutter

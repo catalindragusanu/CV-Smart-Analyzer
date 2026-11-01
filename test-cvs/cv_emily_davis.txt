@@ -1,0 +1,40 @@
+EMILY DAVIS
+Email: emily.davis@email.com
+Phone: +1-555-0104
+Portfolio: emilydesigns.com
+
+PROFESSIONAL PROFILE
+Frontend Developer with 4 years of experience creating responsive, user-friendly web applications. Specialized in React, TypeScript, and modern CSS frameworks.
+
+TECHNICAL SKILLS
+- Languages: JavaScript, TypeScript, HTML5, CSS3
+- Frameworks/Libraries: React, Next.js, Vue.js, Angular
+- State Management: Redux, MobX, Context API
+- Styling: Tailwind CSS, Sass, Material-UI, Styled Components
+- Testing: Jest, React Testing Library, Cypress
+- Tools: Webpack, Vite, npm, Git
+- UI/UX: Figma, Adobe XD, Responsive Design
+
+WORK HISTORY
+
+Frontend Developer | Digital Solutions Inc. | 2021 - Present
+- Developed responsive web applications using React and TypeScript
+- Improved page load times by 50% through code optimization
+- Implemented accessibility features achieving WCAG 2.1 AA compliance
+- Collaborated with designers to create pixel-perfect UIs
+- Participated in code reviews and mentored junior developers
+
+Junior Frontend Developer | Web Creations | 2020 - 2021
+- Built reusable React components for company component library
+- Converted designs from Figma to responsive web pages
+- Fixed cross-browser compatibility issues
+- Integrated RESTful APIs with frontend applications
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Washington | 2016 - 2020
+
+PROJECTS
+- E-commerce Platform: Built using Next.js, TypeScript, and Stripe
+- Weather Dashboard: React app consuming OpenWeather API
+- Portfolio Website: Custom designed using React and Three.js

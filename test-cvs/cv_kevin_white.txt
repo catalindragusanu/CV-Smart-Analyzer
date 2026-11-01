@@ -1,0 +1,45 @@
+KEVIN WHITE
+Email: kevin.white@email.com
+Phone: +1-555-0113
+LinkedIn: linkedin.com/in/kevinwhite
+
+PROFESSIONAL PROFILE
+Cloud Architect with 9 years of experience designing and implementing cloud solutions. AWS and Azure expert with strong focus on scalability and cost optimization.
+
+EXPERTISE
+- Cloud Platforms: AWS, Microsoft Azure, Google Cloud Platform
+- Architecture: Microservices, Serverless, Event-Driven Architecture
+- Services: EC2, Lambda, S3, RDS, ECS, EKS, API Gateway
+- Infrastructure: Terraform, CloudFormation, ARM Templates
+- Networking: VPC, VPN, Direct Connect, Load Balancers
+- Security: IAM, Security Groups, KMS, Secrets Manager
+- Cost Optimization: Reserved Instances, Spot Instances, Right-sizing
+
+PROFESSIONAL HISTORY
+
+Cloud Architect | Cloud Solutions Corp | 2020 - Present
+- Designed cloud architectures for enterprise clients
+- Migrated 50+ applications to AWS cloud
+- Reduced cloud costs by 40% through optimization
+- Implemented multi-region disaster recovery solutions
+- Conducted cloud readiness assessments
+- Provided technical leadership to cloud engineering team
+
+Senior Cloud Engineer | Tech Infrastructure Inc. | 2016 - 2020
+- Built scalable cloud infrastructure on AWS
+- Automated infrastructure deployment using Terraform
+- Implemented security best practices and compliance
+- Designed high-availability architectures
+
+EDUCATION
+Master of Science in Information Technology
+Georgia Tech | 2013 - 2015
+
+Bachelor of Engineering in Electronics
+Purdue University | 2009 - 2013
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Professional
+- Microsoft Certified: Azure Solutions Architect Expert
+- Google Cloud Professional Cloud Architect
+- Certified Kubernetes Administrator (CKA)

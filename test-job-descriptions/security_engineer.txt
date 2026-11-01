@@ -1,0 +1,46 @@
+JOB TITLE: Security Engineer
+COMPANY: CyberShield Security
+LOCATION: Washington, DC
+
+JOB DESCRIPTION:
+Join our security team to protect our infrastructure and applications from cyber threats. We're looking for someone with penetration testing and security architecture experience.
+
+REQUIRED SKILLS:
+Penetration Testing, Vulnerability Assessment, Security Architecture, OWASP, Burp Suite, Metasploit, Nmap, Python, Bash, SIEM, Splunk, Network Security, Cloud Security, Incident Response
+
+RESPONSIBILITIES:
+- Conduct penetration testing on applications and infrastructure
+- Perform vulnerability assessments and security audits
+- Identify and remediate security vulnerabilities
+- Implement security monitoring and incident detection
+- Respond to security incidents and perform forensics
+- Develop security policies and procedures
+- Conduct security training for development teams
+- Stay updated on latest security threats and trends
+- Perform code security reviews
+- Manage security tools and technologies
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science, Cybersecurity, or related field
+- 5+ years of experience in information security
+- Strong knowledge of OWASP Top 10 and common vulnerabilities
+- Hands-on experience with penetration testing tools
+- Understanding of network protocols and security
+- Experience with SIEM tools (Splunk, ELK, etc.)
+- Scripting skills in Python or Bash
+- Knowledge of cloud security (AWS, Azure)
+- Strong analytical and problem-solving skills
+- Excellent written and verbal communication
+
+REQUIRED CERTIFICATIONS:
+At least one of the following:
+- Certified Ethical Hacker (CEH)
+- Offensive Security Certified Professional (OSCP)
+- Certified Information Systems Security Professional (CISSP)
+- GIAC Security Essentials (GSEC)
+
+PREFERRED:
+- Additional security certifications
+- Experience with compliance frameworks (ISO 27001, SOC 2, PCI-DSS)
+- Bug bounty experience
+- Knowledge of application security testing

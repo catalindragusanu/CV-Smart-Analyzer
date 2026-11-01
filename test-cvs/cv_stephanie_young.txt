@@ -1,0 +1,49 @@
+STEPHANIE YOUNG
+Email: stephanie.young@email.com
+Phone: +1-555-0120
+
+OBJECTIVE
+Junior Software Engineer with 2 years of experience and strong foundation in computer science. Eager to contribute to challenging projects.
+
+SKILLS
+- Languages: Java, Python, C++, JavaScript
+- Web: HTML, CSS, React, Node.js
+- Databases: MySQL, PostgreSQL
+- Tools: Git, GitHub, Visual Studio Code, IntelliJ IDEA
+- Concepts: OOP, Data Structures, Algorithms
+- Operating Systems: Windows, Linux
+
+EXPERIENCE
+
+Junior Software Engineer | CodeWorks Inc. | 2022 - Present
+- Developed features for web applications using Java and Spring
+- Fixed bugs and improved code quality
+- Participated in code reviews and team meetings
+- Wrote unit tests using JUnit
+- Collaborated with senior developers on projects
+- Documented code and technical processes
+
+Software Engineering Intern | Tech StartUp | Summer 2021
+- Built RESTful APIs using Node.js and Express
+- Created frontend components with React
+- Assisted in database design and optimization
+- Learned Agile development methodologies
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Los Angeles | 2018 - 2022
+GPA: 3.6/4.0
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Software Engineering, Web Development
+
+ACADEMIC PROJECTS
+- Student Management System: Full-stack web app using MERN stack
+- Algorithm Visualizer: Interactive tool built with React
+- Chat Application: Real-time messaging using WebSockets
+
+CERTIFICATIONS
+- Oracle Certified Associate, Java SE 8 Programmer
+- Introduction to Cybersecurity - Cisco
+
+HONORS & AWARDS
+- Dean's Honor List (2020, 2021)
+- Hackathon Winner - UCLA Tech Fest 2021

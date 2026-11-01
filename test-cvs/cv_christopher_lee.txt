@@ -1,0 +1,45 @@
+CHRISTOPHER LEE
+Email: chris.lee@email.com
+Phone: +1-555-0109
+GitHub: github.com/chrislee
+
+PROFILE
+Security Engineer with 6 years of experience in cybersecurity, penetration testing, and security architecture. Expert in identifying and mitigating security vulnerabilities.
+
+TECHNICAL EXPERTISE
+- Security Tools: Nmap, Burp Suite, Metasploit, Wireshark
+- Languages: Python, Bash, PowerShell, C++
+- Security Practices: OWASP, Penetration Testing, Vulnerability Assessment
+- Compliance: ISO 27001, GDPR, HIPAA, PCI-DSS
+- Networking: TCP/IP, DNS, VPN, Firewalls
+- Cloud Security: AWS Security, Azure Security
+- SIEM: Splunk, ELK Stack
+
+EXPERIENCE
+
+Security Engineer | CyberDefense Inc. | 2020 - Present
+- Conducted penetration testing on web applications and networks
+- Identified and remediated critical security vulnerabilities
+- Implemented security monitoring using SIEM tools
+- Developed security policies and procedures
+- Performed security audits and risk assessments
+- Provided security training to development teams
+
+Junior Security Analyst | SecureNet | 2018 - 2020
+- Monitored security events and incidents
+- Analyzed security logs and alerts
+- Assisted in incident response and forensics
+- Conducted vulnerability scans using Nessus
+
+EDUCATION
+Master of Science in Cybersecurity
+Carnegie Mellon University | 2016 - 2018
+
+Bachelor of Science in Computer Science
+University of Michigan | 2012 - 2016
+
+CERTIFICATIONS
+- Certified Ethical Hacker (CEH)
+- Offensive Security Certified Professional (OSCP)
+- CompTIA Security+
+- Certified Information Systems Security Professional (CISSP)

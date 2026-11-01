@@ -1,0 +1,43 @@
+JOB TITLE: Business Intelligence Analyst
+COMPANY: Analytics Pro Corporation
+LOCATION: Atlanta, GA
+
+POSITION OVERVIEW:
+Join our analytics team as a Business Intelligence Analyst. You'll turn data into insights that drive strategic business decisions.
+
+REQUIRED SKILLS:
+Tableau, Power BI, SQL, Data Visualization, Excel, Python, ETL, Data Analysis, Dashboard Design, SQL Server, Data Warehousing, Statistical Analysis, Reporting
+
+RESPONSIBILITIES:
+- Design and develop interactive dashboards and reports
+- Analyze business data to identify trends and insights
+- Create data visualizations for executive stakeholders
+- Write complex SQL queries for data extraction and analysis
+- Develop ETL processes for data integration
+- Collaborate with business units to understand requirements
+- Perform ad-hoc analysis to answer business questions
+- Maintain and optimize existing BI solutions
+- Document data definitions and reporting processes
+- Present findings and recommendations to management
+- Monitor key business metrics and KPIs
+- Identify opportunities for process improvement
+
+QUALIFICATIONS:
+- Bachelor's degree in Business Analytics, Computer Science, or related field
+- 3+ years of experience in business intelligence or data analysis
+- Expert proficiency in Tableau or Power BI
+- Strong SQL skills and database knowledge
+- Advanced Excel skills (pivot tables, formulas, VBA)
+- Experience with data warehousing concepts
+- Understanding of ETL processes and tools
+- Strong analytical and problem-solving abilities
+- Excellent communication and presentation skills
+- Ability to translate business needs into technical requirements
+
+PREFERRED SKILLS:
+- Master's degree in Business Analytics or related field
+- Tableau or Power BI certification
+- Python or R programming experience
+- Experience with cloud data platforms (Snowflake, Redshift)
+- Knowledge of statistical analysis techniques
+- Experience with Agile methodologies

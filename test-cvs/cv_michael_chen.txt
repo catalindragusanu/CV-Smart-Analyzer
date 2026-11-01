@@ -1,0 +1,40 @@
+MICHAEL CHEN
+Email: m.chen@email.com
+Phone: +1-555-0103
+GitHub: github.com/michaelchen
+
+SUMMARY
+DevOps Engineer with 6 years of experience in cloud infrastructure, automation, and CI/CD. Expert in AWS, Docker, and Kubernetes.
+
+CORE COMPETENCIES
+- Cloud Platforms: AWS, Azure, Google Cloud Platform
+- Containers: Docker, Kubernetes, Docker Swarm
+- Infrastructure as Code: Terraform, Ansible, CloudFormation
+- CI/CD: Jenkins, GitLab CI, CircleCI, GitHub Actions
+- Scripting: Python, Bash, PowerShell
+- Monitoring: Prometheus, Grafana, ELK Stack, Datadog
+- Version Control: Git, GitHub, GitLab
+
+EXPERIENCE
+
+Senior DevOps Engineer | Cloud Native Corp | 2020 - Present
+- Architected and maintained AWS infrastructure for 50+ microservices
+- Reduced infrastructure costs by 35% through optimization
+- Implemented GitOps workflows using ArgoCD
+- Automated deployment processes achieving 99.9% uptime
+- Managed Kubernetes clusters with 200+ pods
+
+DevOps Engineer | Tech Innovations | 2018 - 2020
+- Built CI/CD pipelines for multiple development teams
+- Migrated on-premise applications to AWS cloud
+- Implemented monitoring and alerting systems
+- Wrote infrastructure automation scripts in Python and Bash
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Georgia Institute of Technology | 2014 - 2018
+
+CERTIFICATIONS
+- AWS Certified DevOps Engineer - Professional
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified: Terraform Associate

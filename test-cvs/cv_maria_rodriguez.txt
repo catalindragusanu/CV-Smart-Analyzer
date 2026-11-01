@@ -1,0 +1,43 @@
+MARIA RODRIGUEZ
+Email: maria.rodriguez@email.com
+Phone: +1-555-0110
+
+PROFESSIONAL SUMMARY
+Database Administrator with 7 years of experience managing enterprise databases. Specialized in Oracle, PostgreSQL, and SQL Server.
+
+SKILLS
+- Databases: Oracle, PostgreSQL, MySQL, SQL Server, MongoDB
+- Languages: SQL, PL/SQL, Python, Shell Scripting
+- Tools: Oracle Enterprise Manager, pgAdmin, SQL Server Management Studio
+- Backup & Recovery: RMAN, pg_dump, SQL Server Backup
+- Performance Tuning: Query optimization, Indexing strategies
+- High Availability: Replication, Clustering, Failover
+- Cloud: AWS RDS, Azure SQL Database
+
+WORK EXPERIENCE
+
+Senior Database Administrator | Enterprise Data Solutions | 2019 - Present
+- Managed 50+ production databases supporting critical business applications
+- Performed database performance tuning reducing query time by 45%
+- Implemented backup and disaster recovery strategies
+- Monitored database health and resolved performance issues
+- Automated routine maintenance tasks using scripts
+- Conducted database migrations with zero downtime
+
+Database Administrator | DataTech Corp | 2017 - 2019
+- Installed and configured database systems
+- Created and maintained database documentation
+- Performed regular database backups and restores
+- Managed user access and security permissions
+
+EDUCATION
+Master of Science in Information Systems
+New York University | 2015 - 2017
+
+Bachelor of Computer Applications
+University of Mumbai | 2011 - 2015
+
+CERTIFICATIONS
+- Oracle Certified Professional (OCP)
+- Microsoft Certified: Azure Database Administrator
+- PostgreSQL 12 Certified Professional

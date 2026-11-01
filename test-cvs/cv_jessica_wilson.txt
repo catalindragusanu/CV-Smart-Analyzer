@@ -1,0 +1,39 @@
+JESSICA WILSON
+Email: jessica.wilson@email.com
+Phone: +1-555-0106
+
+SUMMARY
+Full Stack Developer with 3 years of experience in web development. Proficient in MERN stack and passionate about building user-centric applications.
+
+TECHNICAL PROFICIENCIES
+- Frontend: React, JavaScript, HTML, CSS, Bootstrap
+- Backend: Node.js, Express.js, MongoDB
+- Version Control: Git, GitHub
+- Testing: Mocha, Chai, Jest
+- Deployment: Heroku, Netlify, Vercel
+- Others: REST APIs, JSON, Agile
+
+EMPLOYMENT HISTORY
+
+Full Stack Developer | Web Dynamics | 2022 - Present
+- Developed full-stack applications using MERN stack
+- Created RESTful APIs with Node.js and Express
+- Implemented user authentication using JWT
+- Collaborated with UX designers for improved user experience
+- Participated in daily stand-ups and sprint planning
+
+Junior Developer | CodeCraft | 2021 - 2022
+- Built responsive websites using React and CSS
+- Debugged and fixed frontend issues
+- Wrote unit tests for React components
+- Assisted in database design and optimization
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Illinois | 2017 - 2021
+Dean's List: 2019, 2020
+
+PERSONAL PROJECTS
+- Task Management App: MERN stack with real-time updates
+- Recipe Finder: React app with external API integration
+- Blog Platform: Full-stack application with user authentication

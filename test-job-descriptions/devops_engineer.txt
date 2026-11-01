@@ -1,0 +1,36 @@
+JOB TITLE: DevOps Engineer
+COMPANY: Cloud Systems Pro
+LOCATION: Remote
+
+JOB DESCRIPTION:
+We're seeking a talented DevOps Engineer to help build and maintain our cloud infrastructure. You'll work on automation, CI/CD, and infrastructure as code.
+
+REQUIRED SKILLS:
+AWS, Docker, Kubernetes, Terraform, Ansible, CI/CD, Jenkins, Python, Bash, Git, Linux, Monitoring, Prometheus, Grafana, GitOps
+
+RESPONSIBILITIES:
+- Design and maintain scalable cloud infrastructure on AWS
+- Build and optimize CI/CD pipelines
+- Implement infrastructure as code using Terraform
+- Manage Kubernetes clusters and containerized applications
+- Automate deployment and operational tasks
+- Implement monitoring and alerting solutions
+- Troubleshoot production issues and ensure high availability
+- Collaborate with development teams on best practices
+- Maintain documentation for infrastructure and processes
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science or related field
+- 4+ years of DevOps or Cloud Engineering experience
+- Strong experience with AWS services (EC2, S3, RDS, Lambda, ECS)
+- Proficiency with Docker and Kubernetes
+- Experience with Infrastructure as Code (Terraform, CloudFormation)
+- Strong scripting skills (Python, Bash, or similar)
+- Knowledge of CI/CD tools (Jenkins, GitLab CI, etc.)
+- Experience with monitoring tools (Prometheus, Grafana, ELK)
+
+PREFERRED:
+- AWS certifications
+- Kubernetes certifications (CKA, CKAD)
+- Experience with service mesh (Istio, Linkerd)
+- Knowledge of security best practices

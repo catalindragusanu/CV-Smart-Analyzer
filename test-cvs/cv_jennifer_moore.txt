@@ -1,0 +1,46 @@
+JENNIFER MOORE
+Email: jennifer.moore@email.com
+Phone: +1-555-0118
+
+PROFILE
+Blockchain Developer with 3 years of experience building decentralized applications. Specialized in Ethereum, Solidity, and Web3.
+
+TECHNICAL EXPERTISE
+- Blockchain: Ethereum, Hyperledger Fabric, Polygon
+- Smart Contracts: Solidity, Vyper, Hardhat, Truffle
+- Web3: Web3.js, Ethers.js, MetaMask integration
+- Languages: JavaScript, TypeScript, Python, Rust
+- Frontend: React, Next.js, HTML, CSS
+- Tools: Remix IDE, Ganache, IPFS
+- Testing: Mocha, Chai, Waffle
+
+EXPERIENCE
+
+Blockchain Developer | CryptoTech Solutions | 2022 - Present
+- Developed smart contracts using Solidity
+- Built DeFi applications with yield farming mechanisms
+- Implemented NFT minting and marketplace contracts
+- Conducted smart contract audits and security reviews
+- Integrated Web3 wallets with frontend applications
+- Optimized gas costs by 30% through code improvements
+
+Junior Blockchain Developer | DApp Innovations | 2021 - 2022
+- Created decentralized applications on Ethereum
+- Developed frontend interfaces for Web3 applications
+- Wrote comprehensive tests for smart contracts
+- Participated in blockchain architecture design
+- Deployed contracts to testnet and mainnet
+
+EDUCATION
+Bachelor of Science in Computer Science
+Carnegie Mellon University | 2017 - 2021
+Focus: Distributed Systems and Cryptography
+
+PROJECTS
+- DeFi Lending Platform: Smart contract with $500K TVL
+- NFT Marketplace: Built on Polygon with 1000+ users
+- DAO Governance: Voting and proposal system
+
+CERTIFICATIONS
+- Certified Blockchain Developer - Blockchain Council
+- Ethereum Developer Bootcamp Graduate

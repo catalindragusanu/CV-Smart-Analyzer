@@ -1,0 +1,41 @@
+JOB TITLE: QA Automation Engineer
+COMPANY: Quality First Software
+LOCATION: Denver, CO
+
+POSITION SUMMARY:
+We need a skilled QA Automation Engineer to build and maintain our test automation framework. You'll ensure our products meet the highest quality standards.
+
+REQUIRED SKILLS:
+Selenium, Automation Testing, Java, Python, TestNG, JUnit, API Testing, Postman, Cypress, Jenkins, CI/CD, JIRA, Agile, Test Planning, Regression Testing
+
+RESPONSIBILITIES:
+- Design and develop automated test scripts using Selenium
+- Create and maintain test automation frameworks
+- Perform API testing using Postman and REST Assured
+- Execute automated regression and integration tests
+- Integrate tests with CI/CD pipelines
+- Identify, document, and track software defects
+- Create comprehensive test plans and test cases
+- Perform manual testing when necessary
+- Collaborate with developers to resolve issues
+- Participate in Agile ceremonies and sprint planning
+- Generate test reports and metrics
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science or related field
+- 4+ years of experience in QA and test automation
+- Strong programming skills in Java or Python
+- Extensive experience with Selenium WebDriver
+- Knowledge of test frameworks (TestNG, JUnit, Pytest)
+- Experience with API testing tools (Postman, SoapUI, REST Assured)
+- Understanding of CI/CD concepts and Jenkins
+- Familiarity with Agile/Scrum methodologies
+- Strong analytical and debugging skills
+- Excellent attention to detail
+
+PREFERRED QUALIFICATIONS:
+- ISTQB certification
+- Experience with Cypress or similar modern testing tools
+- Knowledge of performance testing (JMeter, LoadRunner)
+- Experience with mobile test automation (Appium)
+- Understanding of SQL and database testing

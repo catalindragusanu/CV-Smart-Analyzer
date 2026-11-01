@@ -1,0 +1,48 @@
+NICOLE HARRIS
+Email: nicole.harris@email.com
+Phone: +1-555-0114
+
+SUMMARY
+Product Manager with 6 years of experience leading cross-functional teams to deliver successful products. Technical background with MBA.
+
+SKILLS
+- Product Management: Roadmap planning, Feature prioritization, User stories
+- Analytics: Google Analytics, Mixpanel, Amplitude
+- Tools: JIRA, Confluence, Asana, Trello
+- Methodologies: Agile, Scrum, Kanban, Lean Startup
+- Technical: SQL, Python (basic), API concepts
+- Design: Figma, Wireframing, User flows
+- Business: Market research, Competitive analysis, Stakeholder management
+
+EXPERIENCE
+
+Senior Product Manager | SaaS Innovations | 2021 - Present
+- Led product strategy and roadmap for B2B SaaS platform
+- Managed product lifecycle from conception to launch
+- Increased user engagement by 45% through feature improvements
+- Conducted user research and data analysis to drive decisions
+- Collaborated with engineering, design, and marketing teams
+- Achieved 95% customer satisfaction rating
+
+Product Manager | Digital Products Co. | 2019 - 2021
+- Defined product requirements and user stories
+- Prioritized features based on business impact and user needs
+- Conducted sprint planning and backlog grooming
+- Analyzed product metrics and KPIs
+- Launched 3 major product features
+
+Associate Product Manager | StartUp Tech | 2018 - 2019
+- Assisted in product planning and execution
+- Gathered and analyzed customer feedback
+- Created product documentation and specifications
+
+EDUCATION
+MBA - Technology Management
+Northwestern University, Kellogg School of Management | 2016 - 2018
+
+Bachelor of Science in Computer Science
+Cornell University | 2012 - 2016
+
+CERTIFICATIONS
+- Certified Scrum Product Owner (CSPO)
+- Product Management Certification - Pragmatic Institute

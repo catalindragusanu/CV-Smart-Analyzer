@@ -1,0 +1,48 @@
+WILLIAM JACKSON
+Email: w.jackson@email.com
+Phone: +1-555-0119
+LinkedIn: linkedin.com/in/williamjackson
+
+SUMMARY
+Site Reliability Engineer with 5 years of experience ensuring high availability and performance of production systems. Expert in monitoring, incident response, and automation.
+
+SKILLS
+- Cloud: AWS, Google Cloud Platform, Azure
+- Containers: Docker, Kubernetes, Helm
+- Monitoring: Prometheus, Grafana, Datadog, New Relic
+- Logging: ELK Stack, Splunk, CloudWatch
+- Infrastructure as Code: Terraform, Ansible
+- CI/CD: Jenkins, GitLab CI, ArgoCD
+- Languages: Python, Go, Bash
+- Incident Management: PagerDuty, Oncall rotations
+
+WORK HISTORY
+
+Site Reliability Engineer | Scale Systems Inc. | 2021 - Present
+- Maintained 99.99% uptime for critical production services
+- Implemented comprehensive monitoring and alerting systems
+- Automated incident response reducing MTTR by 40%
+- Conducted post-incident reviews and RCA documentation
+- Built capacity planning models for infrastructure scaling
+- Participated in on-call rotation and incident management
+
+DevOps Engineer | CloudOps Solutions | 2019 - 2021
+- Deployed and managed Kubernetes clusters
+- Created Terraform modules for infrastructure provisioning
+- Implemented centralized logging using ELK stack
+- Developed Python automation scripts
+- Collaborated with development teams on SLOs/SLIs
+
+EDUCATION
+Bachelor of Science in Computer Engineering
+University of California, San Diego | 2015 - 2019
+
+CERTIFICATIONS
+- Google Cloud Professional Cloud Developer
+- AWS Certified Solutions Architect
+- Certified Kubernetes Administrator (CKA)
+- Site Reliability Engineering Certificate - Google
+
+ACHIEVEMENTS
+- Reduced incident response time by 50%
+- Automated 80% of routine operational tasks

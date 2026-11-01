@@ -1,0 +1,39 @@
+AMANDA GARCIA
+Email: amanda.garcia@email.com
+Phone: +1-555-0108
+
+OBJECTIVE
+QA Engineer with 4 years of experience in manual and automated testing. Committed to delivering high-quality software products.
+
+CORE SKILLS
+- Automation: Selenium, Cypress, TestNG, JUnit
+- Languages: Java, Python, JavaScript
+- Testing Types: Functional, Regression, Integration, API, Performance
+- Tools: JIRA, Postman, SoapUI, JMeter
+- CI/CD: Jenkins, GitHub Actions
+- Methodologies: Agile, Scrum
+- Bug Tracking: JIRA, Bugzilla
+
+PROFESSIONAL BACKGROUND
+
+QA Engineer | Quality Software Corp | 2021 - Present
+- Developed automated test scripts using Selenium and Python
+- Performed API testing with Postman and REST Assured
+- Created and executed test plans and test cases
+- Participated in sprint planning and retrospectives
+- Identified and documented 200+ bugs
+- Achieved 90% test automation coverage
+
+Junior QA Tester | Tech Testing Solutions | 2020 - 2021
+- Conducted manual testing of web applications
+- Created detailed bug reports with reproduction steps
+- Performed regression testing before each release
+- Collaborated with developers to resolve defects
+
+EDUCATION
+Bachelor of Science in Computer Science
+California State University | 2016 - 2020
+
+CERTIFICATIONS
+- ISTQB Certified Tester Foundation Level
+- Selenium WebDriver with Java Certification

@@ -1,0 +1,42 @@
+JOB TITLE: Full Stack Developer (MERN)
+COMPANY: WebTech Solutions
+LOCATION: Chicago, IL
+
+JOB OVERVIEW:
+We're hiring a Full Stack Developer proficient in the MERN stack to build modern web applications from front to back.
+
+REQUIRED SKILLS:
+MongoDB, Express.js, React, Node.js, JavaScript, TypeScript, HTML, CSS, REST APIs, Git, Redux, JWT, Webpack, npm, Agile
+
+RESPONSIBILITIES:
+- Develop full-stack web applications using MERN stack
+- Build responsive user interfaces with React
+- Design and implement RESTful APIs with Node.js and Express
+- Work with MongoDB for database design and queries
+- Implement user authentication and authorization
+- Write clean, maintainable code with proper documentation
+- Perform code reviews and testing
+- Collaborate with team members in Agile sprints
+- Debug and troubleshoot issues
+- Deploy applications to cloud platforms
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science or equivalent experience
+- 3+ years of full-stack development experience
+- Strong proficiency in JavaScript and modern ES6+ features
+- Extensive experience with React and React hooks
+- Solid understanding of Node.js and Express.js
+- Experience with MongoDB and NoSQL databases
+- Knowledge of RESTful API design principles
+- Familiarity with Git version control
+- Understanding of responsive web design
+- Good problem-solving and communication skills
+
+BONUS SKILLS:
+- TypeScript experience
+- Experience with Next.js
+- Knowledge of GraphQL
+- Testing frameworks (Jest, Mocha, Chai)
+- CI/CD pipelines
+- Docker and containerization
+- AWS or cloud deployment experience

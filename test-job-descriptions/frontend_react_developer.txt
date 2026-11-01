@@ -1,0 +1,37 @@
+JOB TITLE: Frontend Developer - React
+COMPANY: Digital Experience Labs
+LOCATION: Seattle, WA
+
+OVERVIEW:
+We're looking for a creative Frontend Developer with strong React skills to build beautiful, responsive user interfaces for our web applications.
+
+REQUIRED SKILLS:
+React, JavaScript, TypeScript, HTML5, CSS3, Redux, Next.js, Responsive Design, Git, REST APIs, Webpack, npm, Material-UI, Tailwind CSS
+
+RESPONSIBILITIES:
+- Develop responsive web applications using React and TypeScript
+- Build reusable component libraries
+- Implement pixel-perfect designs from Figma mockups
+- Optimize application performance and load times
+- Ensure cross-browser compatibility
+- Write clean, maintainable, and well-documented code
+- Collaborate with backend developers for API integration
+- Participate in code reviews and team meetings
+- Implement accessibility standards (WCAG)
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science or equivalent experience
+- 3+ years of professional frontend development experience
+- Expert knowledge of React and modern JavaScript (ES6+)
+- Strong proficiency in TypeScript
+- Experience with state management (Redux, Context API, or similar)
+- Solid understanding of HTML5, CSS3, and responsive design
+- Experience with modern build tools (Webpack, Vite)
+- Knowledge of RESTful APIs and asynchronous programming
+- Strong attention to detail and design sensibility
+
+BONUS POINTS:
+- Experience with Next.js or server-side rendering
+- Knowledge of testing frameworks (Jest, React Testing Library, Cypress)
+- Familiarity with design tools (Figma, Adobe XD)
+- Understanding of web performance optimization

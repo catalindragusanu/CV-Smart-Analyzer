@@ -1,0 +1,38 @@
+JOHN SMITH
+Email: john.smith@email.com
+Phone: +1-555-0101
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 8+ years of experience in full-stack development, specializing in Java, Spring Boot, and React. Proven track record of delivering scalable enterprise applications.
+
+SKILLS
+- Programming Languages: Java, JavaScript, Python, SQL
+- Frameworks: Spring Boot, React, Node.js, Hibernate
+- Databases: PostgreSQL, MySQL, MongoDB
+- Tools: Docker, Kubernetes, Git, Jenkins, Maven
+- Cloud: AWS (EC2, S3, Lambda), Azure
+- Methodologies: Agile, Scrum, TDD
+
+WORK EXPERIENCE
+
+Senior Software Engineer | Tech Corp Inc. | 2020 - Present
+- Led development of microservices architecture serving 2M+ users
+- Implemented CI/CD pipelines reducing deployment time by 60%
+- Mentored team of 5 junior developers
+- Designed and developed RESTful APIs using Spring Boot
+
+Software Engineer | StartUp Solutions | 2016 - 2020
+- Developed full-stack web applications using Java and React
+- Optimized database queries improving performance by 40%
+- Collaborated with cross-functional teams in Agile environment
+- Implemented automated testing achieving 85% code coverage
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2012 - 2016
+GPA: 3.7/4.0
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Oracle Certified Professional Java Programmer

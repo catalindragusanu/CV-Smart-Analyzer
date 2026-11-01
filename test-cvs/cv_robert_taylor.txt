@@ -1,0 +1,43 @@
+ROBERT TAYLOR
+Email: robert.taylor@email.com
+Phone: +1-555-0107
+LinkedIn: linkedin.com/in/roberttaylor
+
+PROFESSIONAL SUMMARY
+Mobile Application Developer with 5 years of experience in iOS and Android development. Skilled in Swift, Kotlin, and React Native.
+
+SKILLS
+- iOS: Swift, SwiftUI, UIKit, Xcode, Core Data
+- Android: Kotlin, Java, Android Studio, Room
+- Cross-Platform: React Native, Flutter
+- APIs: RESTful, Firebase, GraphQL
+- Tools: Git, JIRA, Postman
+- Testing: XCTest, Espresso, JUnit
+- Design Patterns: MVC, MVVM, Clean Architecture
+
+WORK EXPERIENCE
+
+Senior Mobile Developer | Mobile First Inc. | 2021 - Present
+- Developed and maintained iOS apps with 500K+ downloads
+- Implemented features using Swift and SwiftUI
+- Integrated push notifications and analytics
+- Optimized app performance reducing crash rate to 0.5%
+- Mentored junior developers on best practices
+
+Mobile Developer | App Innovations | 2019 - 2021
+- Built Android applications using Kotlin
+- Developed cross-platform apps with React Native
+- Implemented in-app purchases and subscription models
+- Worked closely with designers and product managers
+
+EDUCATION
+Bachelor of Science in Computer Engineering
+Purdue University | 2015 - 2019
+
+NOTABLE APPS
+- FitTracker: Fitness tracking app (iOS & Android) - 200K+ downloads
+- ShopEasy: E-commerce mobile app
+- NewsHub: News aggregator with personalized feed
+
+CERTIFICATIONS
+- Google Associate Android Developer

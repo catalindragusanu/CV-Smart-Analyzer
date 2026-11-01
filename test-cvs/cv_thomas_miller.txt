@@ -1,0 +1,43 @@
+THOMAS MILLER
+Email: thomas.miller@email.com
+Phone: +1-555-0117
+Location: Boston, MA
+
+CAREER SUMMARY
+Systems Administrator with 8 years of experience managing enterprise IT infrastructure. Expert in Windows Server, Linux, and network administration.
+
+TECHNICAL SKILLS
+- Operating Systems: Windows Server 2016/2019/2022, Linux (RHEL, Ubuntu, CentOS)
+- Virtualization: VMware vSphere, Hyper-V, Citrix
+- Active Directory: Group Policy, DNS, DHCP, AD DS
+- Scripting: PowerShell, Bash, Python
+- Networking: TCP/IP, VLANs, Routing, Switching
+- Backup: Veeam, Commvault, Windows Backup
+- Monitoring: Nagios, Zabbix, PRTG
+
+PROFESSIONAL EXPERIENCE
+
+Senior Systems Administrator | Enterprise IT Services | 2019 - Present
+- Managed 200+ physical and virtual servers
+- Administered Active Directory for 5000+ users
+- Implemented automated patch management reducing vulnerabilities
+- Performed server migrations and upgrades with minimal downtime
+- Maintained 99.9% system uptime SLA
+- Created PowerShell scripts for automation tasks
+
+Systems Administrator | Tech Corp | 2016 - 2019
+- Installed and configured Windows and Linux servers
+- Managed backup and disaster recovery systems
+- Provided tier-3 technical support
+- Maintained network infrastructure
+- Documented system configurations and procedures
+
+EDUCATION
+Bachelor of Science in Information Technology
+Boston University | 2012 - 2016
+
+CERTIFICATIONS
+- Microsoft Certified Solutions Expert (MCSE)
+- Red Hat Certified System Administrator (RHCSA)
+- CompTIA Network+
+- VMware Certified Professional (VCP)

@@ -1,0 +1,42 @@
+JOB TITLE: Database Administrator
+COMPANY: DataCore Systems
+LOCATION: Dallas, TX
+
+JOB DESCRIPTION:
+We're hiring a Database Administrator to manage and optimize our enterprise database systems. This role requires expertise in Oracle, PostgreSQL, or SQL Server.
+
+REQUIRED SKILLS:
+Oracle, PostgreSQL, SQL Server, MySQL, SQL, Database Design, Performance Tuning, Backup and Recovery, High Availability, Replication, Shell Scripting, Python, AWS RDS
+
+RESPONSIBILITIES:
+- Install, configure, and maintain database systems
+- Monitor database performance and optimize queries
+- Implement backup and disaster recovery strategies
+- Ensure database security and compliance
+- Perform database migrations and upgrades
+- Troubleshoot and resolve database issues
+- Create and maintain database documentation
+- Implement high availability and replication solutions
+- Automate routine maintenance tasks
+- Manage database user access and permissions
+- Capacity planning and resource allocation
+- Collaborate with application developers
+
+QUALIFICATIONS:
+- Bachelor's degree in Computer Science or related field
+- 5+ years of experience as a Database Administrator
+- Expert knowledge of at least one major RDBMS (Oracle, PostgreSQL, SQL Server)
+- Strong SQL and PL/SQL skills
+- Experience with database performance tuning
+- Knowledge of backup/recovery procedures (RMAN, pg_dump, etc.)
+- Understanding of database security best practices
+- Scripting skills (Shell, Python, PowerShell)
+- Experience with database monitoring tools
+- Strong troubleshooting and problem-solving skills
+
+PREFERRED:
+- Database certifications (OCP, PostgreSQL Certified, Microsoft)
+- Experience with cloud databases (AWS RDS, Azure SQL)
+- Knowledge of NoSQL databases (MongoDB, Cassandra)
+- Experience with data replication and clustering
+- Understanding of DevOps and infrastructure as code

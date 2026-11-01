@@ -1,0 +1,47 @@
+LISA THOMPSON
+Email: lisa.thompson@email.com
+Phone: +1-555-0112
+
+CAREER OBJECTIVE
+UI/UX Designer with 4 years of experience creating intuitive and engaging user interfaces. Passionate about user-centered design.
+
+SKILLS
+- Design Tools: Figma, Adobe XD, Sketch, InVision
+- Prototyping: Figma, Axure, Adobe XD
+- User Research: User interviews, Surveys, Usability testing
+- Design Systems: Component libraries, Style guides
+- Frontend: HTML, CSS, JavaScript (basic)
+- Collaboration: JIRA, Confluence, Slack
+- Methods: Design Thinking, Agile UX
+
+EXPERIENCE
+
+UI/UX Designer | Design Studio Pro | 2021 - Present
+- Designed user interfaces for web and mobile applications
+- Conducted user research and usability testing
+- Created wireframes, mockups, and interactive prototypes
+- Developed and maintained design system
+- Collaborated with developers to ensure design implementation
+- Improved user satisfaction score by 35%
+
+Junior UX Designer | Creative Solutions | 2020 - 2021
+- Assisted in creating user flows and wireframes
+- Conducted competitive analysis and user research
+- Created design mockups and prototypes
+- Participated in design reviews and iterations
+
+EDUCATION
+Bachelor of Fine Arts in Graphic Design
+Rhode Island School of Design | 2016 - 2020
+
+PORTFOLIO
+lisathompsondesign.com
+
+PROJECTS
+- E-commerce Redesign: Increased conversion rate by 25%
+- Mobile Banking App: Improved user engagement by 40%
+- Healthcare Portal: Designed for accessibility (WCAG 2.1 AA)
+
+CERTIFICATIONS
+- Google UX Design Professional Certificate
+- Nielsen Norman Group UX Certification
